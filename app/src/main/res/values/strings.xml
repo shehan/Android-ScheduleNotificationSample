@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScheduleNotificationSample</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+</resources>
